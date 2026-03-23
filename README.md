@@ -19,5 +19,5 @@ pip install -r requirements.txt
 ```
 Run the tool:
 ```
-python scanner.py
+python Mahmud–scanner.py
 ```
