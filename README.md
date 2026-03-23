@@ -11,7 +11,7 @@ git clone https://github.com/mh1775089-lgtm/Website-parameter-scanning.git
 ```
 Go to the project directory:
 ```
-cd noobxvau-scanner
+cd Website-parameter-scanning
 ```
 Install required packages:
 ```
