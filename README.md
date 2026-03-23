@@ -8,7 +8,7 @@ pip install requests beautifulsoup4
 
 Clone the repository:
 
-git clone https://github.com/yourusername/noobxvau-scanner
+git clone https://github.com/mh1775089-lgtm/Website-parameter-scanning.git
 
 Go to the project directory:
 
